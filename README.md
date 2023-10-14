@@ -36,10 +36,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor]https:
 
 i learnt how to use flexbox for my layout.
 
-### Continued development
-
-Use this section to outline areas that you want to continue focusing on in future projects.
-
 ## Author
 
 - Frontend Mentor - [@\_ti\_\_mi](https://www.frontendmentor.io/profile/timmypeter)
